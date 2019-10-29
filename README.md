@@ -1,2 +1,2 @@
 # bazinga-box
-An auto-disc-ripping headless NAS/media server Linux distro
+Based on OpenMediaVault and Emby Media Server, BazingaBOX is a ready-to-roll, headless NAS/media server with auto-disc-ripping so you can quickly build a massive, on-demand media library of CDs, DVDs, and Blu-ray discs - high quality/high bitrate, on-demand media with no streaming subscription required! Tagzinga lets you know (via push notifications) when rips are finished and takes you to a local web page so you can check/edit filenames, metadata and artwork (in case the automated lookup didn't find it or got something wrong). YOUR media, YOUR WAY! BazingaBOX Extreme adds Radarr, Sonarr, Lidarr, Calibre, Lazy Librarian, bit torrent and VPN - all ready to go when the install is complete!
